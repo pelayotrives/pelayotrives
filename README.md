@@ -1,6 +1,6 @@
 <h1 align="center">Hello world, I'm <a href="mailto:pelayotrivespozuelo@gmail.com">Pelayo Trives</a>! 💻</h1>
 
-![Banner](https://github.com/pelayotrives/pelayo-trives/blob/master/Banner.png?raw=true)
+![Banner](https://github.com/pelayotrives/pelayotrives/blob/master/Banner.png?raw=true)
 
 <h2 align="center">About Me 😄</h2> 
 
