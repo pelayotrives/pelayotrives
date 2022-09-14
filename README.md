@@ -79,6 +79,12 @@ Repository --> <a href="https://github.com/pelayotrives/gamer-orbit-server">Serv
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Badge">
 </div>
 
+<h2 align="center">Pinned Repositories 📌</h2>
+<div id="pinned" style = "display: flex; flex-wrap: wrap;">
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pelayotrives&repo=portfolio)](https://github.com/pelayotrives/portfolio)
+</div>
+
+
 <h2 align="center">Let's Connect! 🤙🏽</h2>
 
 <div id="badges" align="center">
