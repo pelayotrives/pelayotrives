@@ -77,6 +77,7 @@ My name is Pelayo Trives and I am a Junior Full Stack & Multimedia Developer and
 
 <h2 align="center">Pinned Repositories 📌</h2>
 
+<div align="center">
   <a href="https://github.com/pelayotrives/weatherology">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=pelayotrives&repo=weatherology" />
   </a>
@@ -95,6 +96,7 @@ My name is Pelayo Trives and I am a Junior Full Stack & Multimedia Developer and
   <a href="https://github.com/pelayotrives/portfolio">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=pelayotrives&repo=portfolio" />
   </a>
+</div>
 
 <h2 align="center">Let's Connect! 🤙🏽</h2>
 
