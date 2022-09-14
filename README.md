@@ -11,12 +11,10 @@ My name is Pelayo Trives and I am a Junior Full Stack & Multimedia Developer and
 
 <h2 align="center">Actually Working On... 👨‍💻</h2>
 
-<ul>
-    <li>JavaScript Algorithms and Data Structures Certification (<a href="https://www.freecodecamp.org/">freeCodeCamp</a>)</li>
-    <li><a href="https://www.theodinproject.com/">The Odin Project</a></li>
-    <li>My personal portfolio</li>
-    <li>Alternative projects involving MERN Stack, Swift, TypeScript and other frameworks like Keystone.js or Apollo-GraphQL.</li>
-</ul>
++ JavaScript Algorithms and Data Structures Certification (<a href="https://www.freecodecamp.org/">freeCodeCamp</a>)
++ <a href="https://www.theodinproject.com/">The Odin Project</a>
++ My personal portfolio
++ Alternative projects involving MERN Stack, Swift, TypeScript and other frameworks like Keystone.js or Apollo-GraphQL.
 
 <h2 align="center">Recent Projects 🚧</h2>
 
