@@ -77,11 +77,11 @@ My name is Pelayo Trives and I am a Junior Full Stack & Multimedia Developer and
 
 <h2 align="center">Pinned Repositories 📌</h2>
 
-  <a href="https://github.com/pelayotrives/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pelayotrives&repo=portfolio" />
-  </a>
   <a href="https://github.com/pelayotrives/weatherology">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=pelayotrives&repo=weatherology" />
+  </a>
+  <a href="https://github.com/pelayotrives/codewars-solutions">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pelayotrives&repo=codewars-solutions" />
   </a>
   <a href="https://github.com/pelayotrives/pomodoro-timer">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=pelayotrives&repo=pomodoro-timer" />
@@ -92,8 +92,8 @@ My name is Pelayo Trives and I am a Junior Full Stack & Multimedia Developer and
   <a href="https://github.com/pelayotrives/save-mankind">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=pelayotrives&repo=save-mankind" />
   </a>
-  <a href="https://github.com/pelayotrives/codewars-solutions">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pelayotrives&repo=codewars-solutions" />
+  <a href="https://github.com/pelayotrives/portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pelayotrives&repo=portfolio" />
   </a>
 
 <h2 align="center">Let's Connect! 🤙🏽</h2>
