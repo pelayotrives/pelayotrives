@@ -81,6 +81,18 @@ My name is Pelayo Trives and I am a Junior Full Stack & Multimedia Developer and
   <a href="https://github.com/pelayotrives/portfolio">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pelayotrives&repo=portfolio" />
   </a>
+  <a href="https://github.com/pelayotrives/weatherology">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pelayotrives&repo=weatherology" />
+  </a>
+  <a href="https://github.com/pelayotrives/pomodoro-timer">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pelayotrives&repo=pomodoro-timer" />
+  </a>
+  <a href="https://github.com/pelayotrives/calculator">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pelayotrives&repo=calculator" />
+  </a>
+  <a href="https://github.com/pelayotrives/save-mankind">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pelayotrives&repo=save-mankind" />
+  </a>
 </div>
 
 <h2 align="center">Let's Connect! 🤙🏽</h2>
