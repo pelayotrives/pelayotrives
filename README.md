@@ -11,24 +11,24 @@ My name is Pelayo Trives and I am a Junior Full Stack & Multimedia Developer and
 
 <h2 align="center">Actually Working On... 👨‍💻</h2>
 
-+ JavaScript Algorithms and Data Structures Certification (<a href="https://www.freecodecamp.org/">freeCodeCamp</a>)
-+ <a href="https://www.theodinproject.com/">The Odin Project</a>
-+ My personal portfolio
-+ Alternative projects involving MERN Stack, Swift, TypeScript and other frameworks like Keystone.js or Apollo-GraphQL.
+- JavaScript Algorithms and Data Structures Certification (<a href="https://www.freecodecamp.org/">freeCodeCamp</a>)
+- <a href="https://www.theodinproject.com/">The Odin Project</a>
+- My personal portfolio
+- Alternative projects involving MERN Stack, Swift, TypeScript and other frameworks like Keystone.js or Apollo-GraphQL.
 
 <h2 align="center">Recent Projects 🚧</h2>
 
-- <strong>Save Mankind</strong> <br/>
+- #####Save Mankind <br/>
 A fun and easy minigame made with JavaScript. <br/>
 Made with Vanilla Javascript - HTML5 - CSS3. <br/>
 Repository --> <a href="https://github.com/pelayotrives/save-mankind">Click here</a><br/>
     
-- <strong>C-Wall Tracker</strong> <br/>
+- #####C-Wall Tracker <br/>
 Track your favorite cryptocurrencies! Powered by CoinGecko API. <br/>
 Made with Vanilla Javascript - Express.js - Handlebars.js - HTML5 - CSS3. <br/>
 Repository --> <a href="https://github.com/pelayotrives/cwall-tracker">Click here</a><br/>
     
-- <strong>Gamer Orbit</strong> <br/>
+- #####Gamer Orbit <br/>
 Manage your favorite videogames! Powered by RAWG API. <br/>
 Made with Vanilla Javascript - React.js - Express.js - Node.js - HTML5 - CSS3 - Bootstrap 5.0. <br/>
 Repository --> <a href="https://github.com/pelayotrives/gamer-orbit-server">Server Side</a> | <a href="https://github.com/pelayotrives/gamer-orbit-client">Client Side</a>
