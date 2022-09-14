@@ -77,7 +77,6 @@ My name is Pelayo Trives and I am a Junior Full Stack & Multimedia Developer and
 
 <h2 align="center">Pinned Repositories 📌</h2>
 
-<div id="pinned" align="center">
   <a href="https://github.com/pelayotrives/portfolio">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pelayotrives&repo=portfolio" />
   </a>
@@ -96,7 +95,6 @@ My name is Pelayo Trives and I am a Junior Full Stack & Multimedia Developer and
   <a href="https://github.com/pelayotrives/codewars-solutions">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pelayotrives&repo=codewars-solutions" />
   </a>
-</div>
 
 <h2 align="center">Let's Connect! 🤙🏽</h2>
 
