@@ -1,7 +1,9 @@
-<p align="center">
+<div align="center">
   <img width="200px" src="https://avatars.githubusercontent.com/u/31440380?v=4" align="center" style="border-radius: 50%;" alt="Pelayo Profile Pic" />
-  <h1 align="center">Hello world, I'm <a href="mailto:pelayotrivespozuelo@gmail.com">Pelayo Trives</a>! 💻</h1>
-</p>
+  <div align="center">
+    # Hello world, I'm <a href="mailto:pelayotrivespozuelo@gmail.com">Pelayo Trives</a>! 💻
+  </div>
+</div>
 
 ![Banner](https://github.com/pelayotrives/pelayotrives/blob/master/Banner.png?raw=true)
 
@@ -18,17 +20,17 @@ My name is Pelayo Trives and I am a Junior Full Stack & Multimedia Developer and
 
 <h2 align="center">Recent Projects 🚧</h2>
 
-- #####Save Mankind <br/>
+- ##### Save Mankind <br/>
 A fun and easy minigame made with JavaScript. <br/>
 Made with Vanilla Javascript - HTML5 - CSS3. <br/>
 Repository --> <a href="https://github.com/pelayotrives/save-mankind">Click here</a><br/>
     
-- #####C-Wall Tracker <br/>
+- ##### C-Wall Tracker <br/>
 Track your favorite cryptocurrencies! Powered by CoinGecko API. <br/>
 Made with Vanilla Javascript - Express.js - Handlebars.js - HTML5 - CSS3. <br/>
 Repository --> <a href="https://github.com/pelayotrives/cwall-tracker">Click here</a><br/>
     
-- #####Gamer Orbit <br/>
+- ##### Gamer Orbit <br/>
 Manage your favorite videogames! Powered by RAWG API. <br/>
 Made with Vanilla Javascript - React.js - Express.js - Node.js - HTML5 - CSS3 - Bootstrap 5.0. <br/>
 Repository --> <a href="https://github.com/pelayotrives/gamer-orbit-server">Server Side</a> | <a href="https://github.com/pelayotrives/gamer-orbit-client">Client Side</a>
