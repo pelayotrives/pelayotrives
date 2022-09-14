@@ -1,3 +1,10 @@
+<style>
+  .other-stats {
+    display: flex;
+    flex-direction: row;
+  }
+</style>
+
 <h1 align="center">Hello world, I'm <a href="mailto:pelayotrivespozuelo@gmail.com">Pelayo Trives</a>! 💻</h1>
 
 ![Banner](https://github.com/pelayotrives/pelayotrives/blob/master/Banner.png?raw=true)
@@ -41,7 +48,7 @@ Repository --> <a href="https://github.com/pelayotrives/gamer-orbit-server">Serv
 
 <h2 align="center">Other Stats 📖</h2>
 
-<div style="display:flex; flex-direction:row;">
+<div class="other-stats">
     <a href="https://www.codewars.com/users/pelayotrives">
         <img src="https://www.codewars.com/users/pelayotrives/badges/large" alt="Codewars Badge">
     </a> <br/>
