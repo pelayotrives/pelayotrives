@@ -1,5 +1,7 @@
-<img width="100px" src="https://avatars.githubusercontent.com/u/31440380?v=4" align="center" style="border-radius: 50%;" alt="Pelayo Profile Pic" />
-<h1 align="center">Hello world, I'm <a href="mailto:pelayotrivespozuelo@gmail.com">Pelayo Trives</a>! 💻</h1>
+<p align="center">
+  <img width="200px" src="https://avatars.githubusercontent.com/u/31440380?v=4" align="center" style="border-radius: 50%;" alt="Pelayo Profile Pic" />
+  <h1 align="center">Hello world, I'm <a href="mailto:pelayotrivespozuelo@gmail.com">Pelayo Trives</a>! 💻</h1>
+</p>
 
 ![Banner](https://github.com/pelayotrives/pelayotrives/blob/master/Banner.png?raw=true)
 
