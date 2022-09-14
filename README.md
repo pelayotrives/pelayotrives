@@ -76,7 +76,12 @@ My name is Pelayo Trives and I am a Junior Full Stack & Multimedia Developer and
 </div>
 
 <h2 align="center">Pinned Repositories 📌</h2>
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pelayotrives&repo=portfolio&show_owner=true)](https://github.com/pelayotrives/portfolio)
+
+<div id="pinned" align="center">
+  <a href="https://github.com/pelayotrives/portfolio">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pelayotrives&repo=portfolio" />
+  </a>
+</div>
 
 <h2 align="center">Let's Connect! 🤙🏽</h2>
 
