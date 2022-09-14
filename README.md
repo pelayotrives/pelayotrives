@@ -1,5 +1,5 @@
 <style>
-  .other-stats {
+  .other-stats, .github-stats {
     display: flex;
     flex-direction: row;
   }
@@ -41,7 +41,7 @@ Repository --> <a href="https://github.com/pelayotrives/gamer-orbit-server">Serv
 
 <h2 align="center">GitHub Stats 📖</h2>
 
-<div align="center">
+<div class="github-stats" align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=pelayotrives&show_icons=true&locale=en&theme=dracula" alt="Pelayo Trives Stats" height="200px" /><br/><br/>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pelayotrives&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Pelayo Trives Stats" height="200px" />
 </div>
