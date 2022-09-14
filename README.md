@@ -1,10 +1,3 @@
-<style>
-  .other-stats, .github-stats {
-    display: flex;
-    flex-direction: row;
-  }
-</style>
-
 <h1 align="center">Hello world, I'm <a href="mailto:pelayotrivespozuelo@gmail.com">Pelayo Trives</a>! 💻</h1>
 
 ![Banner](https://github.com/pelayotrives/pelayotrives/blob/master/Banner.png?raw=true)
@@ -41,14 +34,14 @@ Repository --> <a href="https://github.com/pelayotrives/gamer-orbit-server">Serv
 
 <h2 align="center">GitHub Stats 📖</h2>
 
-<div class="github-stats" align="center">
+<div align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=pelayotrives&show_icons=true&locale=en&theme=dracula" alt="Pelayo Trives Stats" height="200px" /><br/><br/>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pelayotrives&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Pelayo Trives Stats" height="200px" />
 </div>
 
 <h2 align="center">Other Stats 📖</h2>
 
-<div class="other-stats">
+<div align="center">
     <a href="https://www.codewars.com/users/pelayotrives">
         <img src="https://www.codewars.com/users/pelayotrives/badges/large" alt="Codewars Badge">
     </a> <br/>
