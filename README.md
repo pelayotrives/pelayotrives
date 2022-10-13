@@ -1,9 +1,6 @@
 <h1 align="center">Hello world <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm <a href="mailto:pelayotrivespozuelo@gmail.com">Pelayo Trives</a>! 💻</h1>
 
-<div align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Helvetica&size=25&duration=4000&pause=200&color=FFFFFF&width=350&height=45&lines=I'm+a+Junior+Full+Stack+Developer+;I+develop+multimedia+solutions)](https://git.io/typing-svg)
-</div>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Helvetica&size=35&duration=3500&pause=750&color=F7F7F7&center=true&vCenter=true&multiline=true&width=435&lines=I'm+a+Junior+Full+Stack+Developer!;I'm+a+Creative+Technologist!;I'm+a+Multimedia+Developer!" alt="Typing SVG" /></a>
 
 ![Banner](https://github.com/pelayotrives/pelayotrives/blob/master/Banner.png?raw=true)
 
