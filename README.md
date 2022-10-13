@@ -1,4 +1,6 @@
-<h1 align="center">Hello world, I'm <a href="mailto:pelayotrivespozuelo@gmail.com">Pelayo Trives</a>! 💻</h1>
+<h1 align="center">Hello world <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm <a href="mailto:pelayotrivespozuelo@gmail.com">Pelayo Trives</a>! 💻</h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Helvetica&size=21&duration=4000&pause=200&color=000000&width=350&height=45&lines=I'm+a+Junior+Full+Stack+Developer+;I+develop+multimedia+solutions)](https://git.io/typing-svg)
 
 ![Banner](https://github.com/pelayotrives/pelayotrives/blob/master/Banner.png?raw=true)
 
@@ -50,6 +52,7 @@ My name is Pelayo Trives and I am a Junior Full Stack & Multimedia Developer and
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="Badge">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="Badge">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="Badge">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="Badge">
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="Badge">
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Badge">
   <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Badge">
@@ -79,7 +82,7 @@ My name is Pelayo Trives and I am a Junior Full Stack & Multimedia Developer and
 
 <div align="center">
   <a href="https://github.com/pelayotrives/weatherology">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pelayotrives&repo=weatherology" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pelayotrives&repo=weatherology"  />
   </a>
   <a href="https://github.com/pelayotrives/codewars-solutions">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=pelayotrives&repo=codewars-solutions" />
