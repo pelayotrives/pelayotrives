@@ -1,12 +1,12 @@
-<div align="center">
-  <h1 align="center">Hello world <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm <a href="mailto:pelayotrivespozuelo@gmail.com">Pelayo Trives</a>! 💻</h1>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Helvetica&size=18&duration=3000&pause=750&color=F7F7F7&center=true&vCenter=true&width=435&lines=I'm+a+Jr.+Full+Stack+Developer!;I'm+a+Creative+Technologist!;I'm+a+Multimedia+Developer!" alt="Typing SVG" /></a>
-</div>
+<h1 align="center">Hello world <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm <a href="mailto:pelayotrivespozuelo@gmail.com">Pelayo Trives</a>! 💻</h1>
 
 ![Banner](https://github.com/pelayotrives/pelayotrives/blob/master/Banner.png?raw=true)
 
 <h2 align="center">About Me 😄</h2>
 
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Helvetica&size=18&duration=3000&pause=750&color=F7F7F7&center=true&vCenter=true&width=435&lines=I'm+a+Jr.+Full+Stack+Developer!;I'm+a+Creative+Technologist!;I'm+a+Multimedia+Developer!" alt="Typing SVG" /></a>
+</div>
 My name is Pelayo Trives and I am a Junior Full Stack & Multimedia Developer and Digital Strategy Manager focused on improving SMEs and growing businesses through analytics, Design Thinking and efficient code. I am passionate about solving problems (and inconveniences) on a daily basis.
 
 <h2 align="center">Actually Working On... 👨‍💻</h2>
