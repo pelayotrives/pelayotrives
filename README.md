@@ -34,10 +34,10 @@ My name is <strong>Pelayo Trives</strong> and I am a <strong>Full Stack & Multim
 
 <h2 align="center">GitHub Stats 📖</h2>
 
-<div align="center" style="display:flex;gap:24px:">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pelayotrives&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Pelayo Trives Stats" width="50%" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pelayotrives&theme=tokyonight&hide_border=true" alt="Pelayo Trives Stats" width="50%" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pelayotrives&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Pelayo Trives Stats" width="100%" />
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pelayotrives&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Pelayo Trives Stats" width="250px" /><br/><br/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pelayotrives&theme=tokyonight&hide_border=true" alt="Pelayo Trives Stats" width="250px" /><br/><br/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pelayotrives&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Pelayo Trives Stats" width="250px" />
 </div>
 
 <h2 align="center">Other Stats 📖</h2>
