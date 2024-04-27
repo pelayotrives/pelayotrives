@@ -5,31 +5,32 @@
 <h2 align="center">About Me 😄</h2>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Helvetica&size=18&duration=3000&pause=750&color=0969DA&center=true&vCenter=true&width=435&lines=I'm+a+Junior+Full+Stack+Developer!;I'm+a+Creative+Technologist!;I'm+a+Multimedia+Developer!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Helvetica&size=18&duration=3000&pause=750&color=0969DA&center=true&vCenter=true&width=435&lines=I'm+a++Full+Stack+Developer!;I'm+a+Creative+Technologist!;I'm+a+Multimedia+Developer!" alt="Typing SVG" /></a>
 </div>
-My name is <strong>Pelayo Trives</strong> and I am a <strong>Junior Full Stack & Multimedia Developer</strong> and Digital Strategy Manager focused on improving SMEs and growing businesses through analytics, Design Thinking and efficient code. I am passionate about <strong>solving problems</strong> (and inconveniences) on a daily basis.
+My name is <strong>Pelayo Trives</strong> and I am a <strong>Full Stack & Multimedia Developer</strong> and Digital Strategy Manager focused on improving SMEs and growing businesses through analytics, Design Thinking and efficient code. I am passionate about <strong>solving problems</strong> (and inconveniences) on a daily basis.
 
 <h2 align="center">Actually Working On... 👨‍💻</h2>
 
-- JavaScript Algorithms and Data Structures Certification (<a href="https://www.freecodecamp.org/">freeCodeCamp</a>)
-- <a href="https://www.theodinproject.com/">The Odin Project</a>
-- My personal portfolio
+- Master's Degree in Artificial Intelligence (MTech) at <a href="https://www.universidadviu.com/es/">VIU (Valencia International University)</a>.
+- Development, research, UX/UI design, and Front-End development tasks at <a href="https://www.kapturall.com/">Kapturall</a>.
+- Development, research, UX/UI design, and Full-Stack development tasks at <a href="https://www.culpass.com">Culpass</a>.
+- Continuously improving my personal portfolio with new SPAs and freelance projects.
 - Alternative projects involving MERN Stack, Swift, TypeScript and other frameworks like Keystone.js or Apollo-GraphQL.
 
 <h2 align="center">Recent Projects 🚧</h2>
 
-- <strong>Save Mankind</strong> <br/>
-  A fun and easy minigame made with JavaScript. <br/>
+- <strong>Slug Generator</strong> <br/>
+  Transform your boring titles in optimized slugs for your website! <br/>
   Made with Vanilla Javascript - HTML5 - CSS3. <br/>
-  Repository --> <a href="https://github.com/pelayotrives/save-mankind">Click here</a><br/>
+  Repository --> <a href="https://github.com/pelayotrives/slug-generator">Click here</a><br/>
 - <strong>C-Wall Tracker</strong> <br/>
   Track your favorite cryptocurrencies! Powered by CoinGecko API. <br/>
   Made with Vanilla Javascript - Express.js - Handlebars.js - HTML5 - CSS3. <br/>
   Repository --> <a href="https://github.com/pelayotrives/cwall-tracker">Click here</a><br/>
-- <strong>Gamer Orbit</strong> <br/>
-  Manage your favorite videogames! Powered by RAWG API. <br/>
-  Made with Vanilla Javascript - React.js - Express.js - Node.js - HTML5 - CSS3 - Bootstrap 5.0. <br/>
-  Repository --> <a href="https://github.com/pelayotrives/gamer-orbit-server">Server Side</a> | <a href="https://github.com/pelayotrives/gamer-orbit-client">Client Side</a>
+- <strong>Check My Notes</strong> <br/>
+  Classic TODO app with DHTML stack! <br/>
+  Made with Vanilla Javascript - HTML5 - CSS3 <br/>
+  Repository --> <a href="https://github.com/pelayotrives/check-my-notes">Click here</a>
 
 <h2 align="center">GitHub Stats 📖</h2>
 
@@ -43,7 +44,7 @@ My name is <strong>Pelayo Trives</strong> and I am a <strong>Junior Full Stack &
 <div align="center">
   <a href="https://www.codewars.com/users/pelayotrives">
     <img src="https://www.codewars.com/users/pelayotrives/badges/large" alt="Codewars Badge">
-  </a> <br/>
+  </a> <br/> <br/>
   <a href="https://cssbattle.dev/player/pelayotrives">CSS Battle</a>
 </div>
 
@@ -79,23 +80,23 @@ My name is <strong>Pelayo Trives</strong> and I am a <strong>Junior Full Stack &
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Badge">
 </div>
 
-<h2 align="center">Pinned Repositories 📌</h2>
+<h2 align="center">Some Of My Projects 📌</h2>
 
 <div align="center">
   <a href="https://github.com/pelayotrives/weatherology">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=pelayotrives&repo=weatherology"  />
   </a>
-  <a href="https://github.com/pelayotrives/codewars-solutions">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pelayotrives&repo=codewars-solutions" />
+  <a href="https://github.com/pelayotrives/web-scraper">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pelayotrives&repo=web-scraper" />
   </a>
-  <a href="https://github.com/pelayotrives/pomodoro-timer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pelayotrives&repo=pomodoro-timer" />
+  <a href="https://github.com/pelayotrives/automouse">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pelayotrives&repo=automouse" />
   </a>
   <a href="https://github.com/pelayotrives/calculator">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=pelayotrives&repo=calculator" />
   </a>
-  <a href="https://github.com/pelayotrives/save-mankind">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pelayotrives&repo=save-mankind" />
+  <a href="https://github.com/pelayotrives/check-my-notes">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pelayotrives&repo=check-my-notes" />
   </a>
   <a href="https://github.com/pelayotrives/portfolio">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=pelayotrives&repo=portfolio" />
