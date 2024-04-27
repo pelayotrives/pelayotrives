@@ -37,6 +37,9 @@ My name is <strong>Pelayo Trives</strong> and I am a <strong>Full Stack & Multim
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pelayotrives&show_icons=true&locale=en&theme=dracula" alt="Pelayo Trives Stats" height="200px" /><br/><br/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pelayotrives&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Pelayo Trives Stats" height="200px" />
+  ![pelayotrives's Stats](https://github-readme-stats.vercel.app/api?username=pelayotrives&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+  ![pelayotrives's Streak](https://github-readme-streak-stats.herokuapp.com/?user=pelayotrives&theme=tokyonight&hide_border=true)
+  ![pelayotrives's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pelayotrives&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 </div>
 
 <h2 align="center">Other Stats 📖</h2>
