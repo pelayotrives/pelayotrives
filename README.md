@@ -62,5 +62,5 @@
 
 ## Contact
 
-- Email: mailto:pelayotrivespozuelo@gmail.com  
+- Email: :pelayotrivespozuelo@gmail.com  
 - LinkedIn: <https://www.linkedin.com/in/pelayo-trives-pozuelo/>
