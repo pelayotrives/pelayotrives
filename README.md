@@ -47,41 +47,14 @@
 
 ## Tech (core)
 
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/Python-000?style=flat&logo=python)
-
-![React](https://img.shields.io/badge/React-000?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-000?style=flat&logo=node.js)
-![Fastify](https://img.shields.io/badge/Fastify-000?style=flat&logo=fastify)
-
-![HTML5](https://img.shields.io/badge/HTML5-000?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=flat&logo=css3)
-
-![SQL](https://img.shields.io/badge/SQL-000?style=flat&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-000?style=flat&logo=mongodb)
-
-![Git](https://img.shields.io/badge/Git-000?style=flat&logo=git)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat&logo=typescript) ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat&logo=javascript) ![Python](https://img.shields.io/badge/Python-000?style=flat&logo=python) ![React](https://img.shields.io/badge/React-000?style=flat&logo=react) ![Node.js](https://img.shields.io/badge/Node.js-000?style=flat&logo=node.js) ![Fastify](https://img.shields.io/badge/Fastify-000?style=flat&logo=fastify) ![HTML5](https://img.shields.io/badge/HTML5-000?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-000?style=flat&logo=css3) ![SQL](https://img.shields.io/badge/SQL-000?style=flat&logo=postgresql) ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=flat&logo=mongodb) ![Git](https://img.shields.io/badge/Git-000?style=flat&logo=git)
 
 ---
 
 <details>
   <summary>More tools</summary>
 
-  ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs)
-  ![Tailwind](https://img.shields.io/badge/Tailwind-000?style=flat&logo=tailwindcss)
-  ![Sass](https://img.shields.io/badge/Sass-000?style=flat&logo=sass)
-
-  ![Redis](https://img.shields.io/badge/Redis-000?style=flat&logo=redis)
-  ![Docker](https://img.shields.io/badge/Docker-000?style=flat&logo=docker)
-  ![Jenkins](https://img.shields.io/badge/Jenkins-000?style=flat&logo=jenkins)
-
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-000?style=flat&logo=tensorflow)
-  ![Pandas](https://img.shields.io/badge/Pandas-000?style=flat&logo=pandas)
-  ![Jupyter](https://img.shields.io/badge/Jupyter-000?style=flat&logo=jupyter)
-
-  ![Figma](https://img.shields.io/badge/Figma-000?style=flat&logo=figma)
-  ![Postman](https://img.shields.io/badge/Postman-000?style=flat&logo=postman)
+  ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs) ![Tailwind](https://img.shields.io/badge/Tailwind-000?style=flat&logo=tailwindcss) ![Sass](https://img.shields.io/badge/Sass-000?style=flat&logo=sass) ![Redis](https://img.shields.io/badge/Redis-000?style=flat&logo=redis) ![Docker](https://img.shields.io/badge/Docker-000?style=flat&logo=docker) ![Jenkins](https://img.shields.io/badge/Jenkins-000?style=flat&logo=jenkins) ![TensorFlow](https://img.shields.io/badge/TensorFlow-000?style=flat&logo=tensorflow) ![Pandas](https://img.shields.io/badge/Pandas-000?style=flat&logo=pandas) ![Jupyter](https://img.shields.io/badge/Jupyter-000?style=flat&logo=jupyter) ![Figma](https://img.shields.io/badge/Figma-000?style=flat&logo=figma) ![Postman](https://img.shields.io/badge/Postman-000?style=flat&logo=postman)
 
 </details>
 
