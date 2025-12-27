@@ -10,10 +10,6 @@
   <a href="https://github.com/pelayotrives">GitHub</a>
 </p>
 
-<p align="center">
-  <img width="80%" src="/Banner.png" alt="Banner" />
-</p>
-
 ---
 
 ## Now
