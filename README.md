@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="/Banner.png" alt="Banner" />
+  <img width="80%" src="/Banner.png" alt="Banner" />
 </p>
 
 ---
