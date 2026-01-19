@@ -32,7 +32,7 @@
 ## Featured projects and utilities
 
 - **create-pnpm-custom-app** — A professional CLI to scaffold full-stack monorepo projects with Next.js, Fastify, and pnpm workspaces.  
-  Repo: <https://github.com/pelayotrives/create-pnpm-custom-app>
+  Repo: <https://github.com/pelayotrives/create-pnpm-custom-app><br/>
   NPM package: <https://www.npmjs.com/package/create-pnpm-custom-app>
 
 - **trives-hooks** — Reusable React hooks focused on clean APIs and developer experience.  
