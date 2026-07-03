@@ -1,7 +1,7 @@
 <h1 align="center">Pelayo Trives</h1>
 
 <p align="center">
-  Full-Stack Developer · Creative Technologist · AI (MTech, VIU)
+  Product Engineer · Software + Data + UX · AI (MTech, VIU)
 </p>
 
 <p align="center">
