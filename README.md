@@ -16,7 +16,7 @@
 
 - Building software with a strong focus on **developer experience, UX and measurable outcomes**.
 - MTech in **Artificial Intelligence** (VIU), with applied ML and data-driven systems.
-- Working across **BBVA Tech** and **Culpass**, covering research, UX/UI and full-stack delivery.
+- Working across **Culpass**, covering research, UX/UI and full-stack delivery. Transitioning into a data-focused technical profile while overseeing the project as technical project management.
 
 ---
 
@@ -38,14 +38,16 @@
 - **trives-hooks** — Reusable React hooks focused on clean APIs and developer experience.  
   Repo: <https://github.com/pelayotrives/trives-hooks>
 
-- **crop-and-convert** — Lightweight image processing utilities for cropping and format conversion.  
-  Repo: <https://github.com/pelayotrives/crop-and-convert>
+- **chrome-extensions** — Personal productivity tools for the Google Chrome environment. Focused on efficiency and self-improvement workflows. Currently in early development and **restricted as private**.  
+  Repo: <https://github.com/pelayotrives/chrome-extensions>
 
 - **css-reducer** — Tooling to simplify and reduce CSS complexity.  
   Repo: <https://github.com/pelayotrives/css-reducer>
 
 - **slug-generator** — SEO-friendly slug generation built with vanilla JavaScript.  
   Repo: <https://github.com/pelayotrives/slug-generator>
+
+I also collaborate weekly on several private projects. Feel free to reach out for more details.
 
 ---
 
